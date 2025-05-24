@@ -1,6 +1,6 @@
 # 麻生情報工学研究室 リンク集
 
-本リポジトリは、麻生情報工学研究室（Aso Institute of Engineering Laboratory）に関連する各種リンクや公開情報をまとめたページです。
+本リポジトリは、麻生情報工学研究室（Aso Information Engineering Laboratory）に関連する各種リンクや公開情報をまとめたページです。
 
 ## 🔗 公開リンク
 
